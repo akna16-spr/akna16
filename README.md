@@ -1,2 +1,3 @@
 # akna16
-First repository 
+Atinderpal Kaur
+SPR500NBB
