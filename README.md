@@ -1,3 +1,3 @@
 # akna16
-Atinderpal Kaur
-SPR500NBB
+Name - Atinderpal Kaur
+Section - SPR500NBB
